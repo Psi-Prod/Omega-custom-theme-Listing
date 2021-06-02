@@ -7,7 +7,19 @@ It's a collection of color schemes for the [**Omega Numworks**](https://github.c
 
 ## Installation
 
-TODO: Add intallation instructions.
+To use a custom theme for your calculator, you'll need to compile your own [Omega](https://github.com/Omega-Numworks/Omega).  
+Simply add the `THEME_NAME` argument to your `make` command:
+```bash
+$ make THEME_NAME=theme_name # Without the THEME_REPO argument, it'll only work with local themes
+# Example:
+$ make THEME_NAME=omega_dark
+```
+You can also specify the theme's repository with the `THEME_REPO` argument:
+```bash
+$ make THEME_NAME=theme_name THEME_REPO=https://github.com/username/theme_name
+# Example:
+$ make THEME_NAME=cursed_light THEME_REPO=https://github.com/Syycorax/Omega-cursed
+```
 
 ## Contributing
 
