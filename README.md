@@ -30,7 +30,7 @@ A theme template is available [here](https://github.com/Omega-Numworks/Omega-The
 
 ## License
 
-All themes are licensed under their **original license**. Check the individual repository licenses for more information
+All themes are licensed under their **original license**. Check the individual repository licenses for more information.
 
 ## Themes listing
 
