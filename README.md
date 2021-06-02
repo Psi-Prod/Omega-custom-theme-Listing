@@ -30,3 +30,4 @@ All themes are licensed under their **original license**. Check the individual r
 * [Omega Kawaii](https://github.com/apoleon33/Omega-Kawaii-Theme)
 * [Omega Dracula](https://github.com/Ratakor/Omega-Dracula-Theme)
 * [Omega Blue, Dark and Nord](https://github.com/fmlatghor/Omega-Theme-Example)
+* [Omega Weeaboo - Ahegao](https://github.com/ArtichOwO/WeebThemeOmega)
