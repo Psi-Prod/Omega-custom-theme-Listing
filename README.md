@@ -7,7 +7,24 @@ It's a collection of color schemes for the [**Omega Numworks**](https://github.c
 
 ## Installation
 
-TODO: Add intallation instructions.
+<details>
+  <summary><b>compile your own theme</b></summary>
+
+You need to be able to [compile omega by yourself](https://github.com/Omega-Numworks/Omega#manual) , then when compiling, simply add the `THEME_NAME` argument, like this:
+```bash
+ make MODEL=n0110 THEME_NAME="your_personnal_theme"  -j8
+```
+</details>
+<details>
+	<summary><b> compile from git</b></summary>
+
+same as above, simply also add the `THEME_REPO` argument:
+
+```bash
+$ make THEME_NAME=omega_blue THEME_REPO=https://github.com/Omega-Numworks/Omega-Theme-Example
+```
+as said [here](https://github.com/Omega-Numworks/Omega-Theme-Example/blob/master/README.md)
+</details>
 
 ## Contributing
 
