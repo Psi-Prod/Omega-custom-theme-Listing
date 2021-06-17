@@ -8,7 +8,7 @@ It's a collection of color schemes for the [**Omega Numworks**](https://github.c
 ## Installation
 
 <details>
-  <summary><b>compile your own theme</b></summary>
+  <summary><b>Compile your own theme</b></summary>
 
 You need to be able to [compile omega by yourself](https://github.com/Omega-Numworks/Omega#manual) , then when compiling, simply add the `THEME_NAME` argument, like this:
 ```bash
@@ -16,7 +16,7 @@ You need to be able to [compile omega by yourself](https://github.com/Omega-Numw
 ```
 </details>
 <details>
-	<summary><b> compile from git</b></summary>
+	<summary><b>Compile from git</b></summary>
 
 same as above, simply also add the `THEME_REPO` argument:
 
