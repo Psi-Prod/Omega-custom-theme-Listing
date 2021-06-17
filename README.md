@@ -10,9 +10,9 @@ It's a collection of color schemes for the [**Omega Numworks**](https://github.c
 <details>
   <summary><b>Compile your own theme</b></summary>
 
-You need to be able to [compile omega by yourself](https://github.com/Omega-Numworks/Omega#manual) , then when compiling, simply add the `THEME_NAME` argument, like this:
+You need to be able to [compile omega by yourself](https://github.com/Omega-Numworks/Omega#manual), then when compiling, simply add the `THEME_NAME` argument, like this:
 ```bash
- make MODEL=n0110 THEME_NAME="your_personnal_theme"
+ make THEME_NAME="your_personnal_theme"
 ```
 </details>
 <details>
