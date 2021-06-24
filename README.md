@@ -48,3 +48,4 @@ All themes are licensed under their **original license**. Check the individual r
 * [Omega Dracula](https://github.com/Ratakor/Omega-Dracula-Theme)
 * [Omega Blue, Dark and Nord](https://github.com/fmlatghor/Omega-Theme-Example)
 * [Omega Weeaboo - Ahegao](https://github.com/ArtichOwO/WeebThemeOmega)
+* [Omega FreeNumworks](https://github.com/PierreDiab/Omega-FreeNumworks)
