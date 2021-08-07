@@ -33,10 +33,6 @@ It's a good idea to add a screenshot of your theme on you repository readme.
 
 A theme template is available [here](https://github.com/Omega-Numworks/Omega-Theme-Example). Feel free to fork it.
 
-## License
-
-All themes are licensed under their **original license**. Check the individual repository licenses for more information
-
 ## Themes listing
 
 * [Omega Shrek](https://github.com/PierreDiab/Omega_Shrek)
@@ -49,3 +45,7 @@ All themes are licensed under their **original license**. Check the individual r
 * [Omega Blue, Dark and Nord](https://github.com/fmlatghor/Omega-Theme-Example)
 * [Omega Weeaboo - Ahegao](https://github.com/ArtichOwO/WeebThemeOmega)
 * [Omega FreeNumworks](https://github.com/PierreDiab/Omega-FreeNumworks)
+
+## License
+
+All themes are licensed under their **original license**. Check the individual repository licenses for more information
