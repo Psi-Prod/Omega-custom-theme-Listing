@@ -60,8 +60,8 @@
         "Calculation": {
             "BackgroundOdd": "Couleur des résultats des calculs impairs",
             "BackgroundEven": "Couleur des résultats des calculs pairs",
-            "EmptyBox": "Couleur des chiffres manquants dans une matrice",
-            "EmptyBoxNeeded": "Couleur de la zone de rentrée potentielle de chiffres",
+            "EmptyBox": "Couleur de la zone de rentrée potentielle de chiffres",
+            "EmptyBoxNeeded": "Couleur des chiffres manquants dans une matrice",
             "TrigoAndComplexForeground": "Couleurs des informations dans un graphique complexe ou trigonométrique"
         },
         "Code": {
