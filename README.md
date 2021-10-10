@@ -35,6 +35,7 @@ A theme template is available [here](https://github.com/Omega-Numworks/Omega-The
 
 ## Themes listing
 
+* [Omega Arc Dark](https://github.com/lolocomotive/Omega-Arc-Dark)
 * [Omega Shrek](https://github.com/PierreDiab/Omega_Shrek)
 * [Miami Vice](https://github.com/akhilvanka/Miami-Vice)
 * [Omega LGBT](https://github.com/coco33920/Omega-LGBT)
