@@ -33,6 +33,8 @@ It's a good idea to add a screenshot of your theme on you repository readme.
 
 A theme template is available [here](https://github.com/Omega-Numworks/Omega-Theme-Example). Feel free to fork it.
 
+A description of the **JSON** to produce is also available in [this](descriptions/) directory (only in French currently).
+
 ## Themes listing
 
 * [Omega Arc Dark](https://github.com/lolocomotive/Omega-Arc-Dark)
