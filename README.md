@@ -49,6 +49,7 @@ A description of the **JSON** to produce is also available in [this](description
 * [Omega Weeaboo - Ahegao](https://github.com/ArtichOwO/WeebThemeOmega)
 * [Omega FreeNumworks](https://github.com/PierreDiab/Omega-FreeNumworks)
 * [Yellowmega](https://github.com/Laporte12974/Yellowmega_Theme)
+* [Omega Gigachad](https://github.com/Ninjdai1/Omega_Gigachad)
 
 ## License
 
